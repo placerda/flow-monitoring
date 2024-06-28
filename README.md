@@ -198,6 +198,6 @@ For more options on az login run `az login --help`
 
 ```
 python enable-monitoring.py
-
+```
 
 **Done creating monitor schedule!**
